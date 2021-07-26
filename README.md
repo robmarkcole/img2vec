@@ -160,5 +160,10 @@ densenet.features = nn.Sequential(OrderedDict([
 - Export documentation to a normal place
 
 
-
-
+## Usage notebook
+## Usage
+* `python3 -m venv venv`
+* `source venv/bin/activate`
+* `pip install .`
+* `pip install jupyterlab`
+* `venv/bin/jupyter lab`
